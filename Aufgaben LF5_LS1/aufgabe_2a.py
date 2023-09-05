@@ -1,0 +1,1 @@
+print("LF5 ist der didaktische Höhepunkt der Woche aus")
